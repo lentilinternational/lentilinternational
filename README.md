@@ -3,8 +3,8 @@
 **lentilinternational/lentilinternational** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-☆ I’m currently working on building a lightweight monitor off solution.<br>
-☆ I’m currently learning python and godot. <br>
+☆ I’m currently working on creating a multi project godot collection.<br>
+☆ [Indie Games](https://9fold.itch.io/) <br>
 ☆ How to reach me: lentilinternational@gmail.com<br>
 ☆ Pronouns: any/all<br>
 ☆ Fun fact: I have only just started my programming journey! I aim to be a jack of all trades down the line.<br>
