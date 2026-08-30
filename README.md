@@ -7,7 +7,7 @@
 ☆ [My Indie Games Studio](https://9fold.itch.io/) <br>
 ☆ How to reach me: lentilinternational@gmail.com<br>
 ☆ Pronouns: any/all<br>
-☆ Fun fact: I have only just started my programming journey! I aim to be a jack of all trades down the line.<br>
+☆ I have only just started my programming journey! I aim to be a jack of all trades down the line.<br>
 
 ## ⋅⋆─────────⋆⋅Programming Languages⋅⋆───────⋆⋅
 ☆ HTML<br>
@@ -43,4 +43,4 @@ Extension⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Description<br>
 ☆ Material Icon Theme ─── Beautiful file icons for improved navigation.<br>
 
 ## ⋅⋆─────────⋆⋅Final Notes⋅⋆───────⋆⋅
-☆ snake_case for life
+☆ why this gif go so hard
